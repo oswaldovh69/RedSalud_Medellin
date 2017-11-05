@@ -1,4 +1,4 @@
-Atenciones en Procedimientos en Salud - Municipio de Medellín 2016
+Redes de Prestadores de Servicios de Salud - Municipio de Medellín
 
 Esta visualización permite conocer las Redes de Prestadores de Servicios de Salud de atenciones realizadas durante el año 2.016
 
